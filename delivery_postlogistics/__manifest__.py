@@ -10,7 +10,6 @@
     "category": "Delivery",
     "complexity": "normal",
     "depends": ["delivery", "mail", "base"],
-    "external_dependencies": {"python": ["vcrpy"]},
     "website": "https://github.com/OCA/delivery-carrier",
     "data": [
         "data/partner.xml",
